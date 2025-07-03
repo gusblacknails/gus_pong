@@ -22,7 +22,12 @@ Welcome to **Gus Pong**, a modern take on the classic Pong game, built in **Proc
 
 ## 🖼️ Screenshots
 
-![Texto alternativo](imatges/logo_guspong.jpg)
+
+<p align="center">
+  <img src="imatges/menu_inici.png" width="300" alt="Menu">
+  <img src="imatges/joc.png" width="300" alt="Gameplay">
+  <img src="imatges/config.png" width="300" alt="Settings">
+</p>
 
 
 ---
