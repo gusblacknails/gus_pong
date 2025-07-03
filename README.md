@@ -57,7 +57,7 @@ Keep the ball from getting past your paddle and try to score on your opponent.
 
 ## 📁 Files
 
-- `GEscola_PF.pde`: Main game file
+- `pong_gus_actualizado.pde`: Main game file
 
 ---
 
