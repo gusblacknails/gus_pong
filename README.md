@@ -1,6 +1,6 @@
 # 🏓 Gus Pong — A Game in Processing
 
-Welcome to **Pong Reinvented**, a modern take on the classic Pong game, built in **Processing**. This project was developed as a final practice for the "Programació Creativa" subject from the UOC's Tècniques d'Interacció digital i Multimèdia, with the goal of going beyond the basic version by adding multiple screens, realistic physics, sound, and customizable settings.
+Welcome to **Gus Pong**, a modern take on the classic Pong game, built in **Processing**. This project was developed as a final practice for the "Programació Creativa" subject from the UOC's Tècniques d'Interacció Digital i Multimèdia, with the goal of going beyond the basic version by adding multiple screens, realistic physics, sound, and customizable settings.
 
 ---
 
